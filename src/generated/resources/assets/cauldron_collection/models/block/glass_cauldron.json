@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cauldron",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "minecraft:block/glass",
+    "inside": "minecraft:block/glass",
+    "particle": "minecraft:block/glass",
+    "side": "minecraft:block/glass",
+    "top": "minecraft:block/glass"
+  }
+}

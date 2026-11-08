@@ -1,0 +1,15 @@
+Cauldron Collection
+===================
+
+Cauldron Collection is a port of More Cauldrons (Minecraft 1.16.5, Forge) by Mrbysco to
+Minecraft 1.21.1 (Forge, then NeoForge).
+The code and assets have been modified (renamed, ported to the 1.21.1 APIs).
+Licensed under the MIT License (see LICENSE).
+
+Lineage
+-------
+- More Cauldrons by Mrbysco, MIT. Idea credited by the original author to EmosewaPixel.
+  Original project: https://github.com/Mrbysco/MoreCauldrons (CurseForge project 290545).
+  This port started from More Cauldrons 1.5.0 for 1.16.5 (see docs/UPSTREAM.md).
+
+Cauldron Collection is unofficial and is not affiliated with or endorsed by the author above.

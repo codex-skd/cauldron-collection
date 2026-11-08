@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_level1",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/cobblestone",
+    "particle": "minecraft:block/cobblestone",
+    "side": "minecraft:block/cobblestone",
+    "top": "minecraft:block/cobblestone"
+  }
+}

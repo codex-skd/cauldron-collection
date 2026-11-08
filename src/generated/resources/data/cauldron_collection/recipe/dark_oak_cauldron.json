@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cauldron_collection:dark_oak_cauldron"
+  }
+}

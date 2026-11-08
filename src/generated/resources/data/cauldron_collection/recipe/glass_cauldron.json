@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "tag": "c:glass_blocks"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cauldron_collection:glass_cauldron"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_level1",
+  "textures": {
+    "bottom": "minecraft:block/diamond_block",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/diamond_block",
+    "particle": "minecraft:block/diamond_block",
+    "side": "minecraft:block/diamond_block",
+    "top": "minecraft:block/diamond_block"
+  }
+}

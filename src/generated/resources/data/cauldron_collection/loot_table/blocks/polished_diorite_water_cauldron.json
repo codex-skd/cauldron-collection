@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cauldron_collection:polished_diorite_cauldron"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "cauldron_collection:blocks/polished_diorite_water_cauldron"
+}

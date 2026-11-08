@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_level1",
+  "textures": {
+    "bottom": "minecraft:block/gold_block",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/gold_block",
+    "particle": "minecraft:block/gold_block",
+    "side": "minecraft:block/gold_block",
+    "top": "minecraft:block/gold_block"
+  }
+}

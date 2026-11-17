@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cauldron_collection:acacia_cauldron",
+    "cauldron_collection:acacia_water_cauldron",
+    "cauldron_collection:dark_oak_cauldron",
+    "cauldron_collection:dark_oak_water_cauldron",
+    "cauldron_collection:birch_cauldron",
+    "cauldron_collection:birch_water_cauldron",
+    "cauldron_collection:jungle_cauldron",
+    "cauldron_collection:jungle_water_cauldron",
+    "cauldron_collection:oak_cauldron",
+    "cauldron_collection:oak_water_cauldron",
+    "cauldron_collection:spruce_cauldron",
+    "cauldron_collection:spruce_water_cauldron"
+  ]
+}

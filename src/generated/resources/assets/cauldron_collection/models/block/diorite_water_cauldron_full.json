@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_full",
+  "textures": {
+    "bottom": "minecraft:block/diorite",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/diorite",
+    "particle": "minecraft:block/diorite",
+    "side": "minecraft:block/diorite",
+    "top": "minecraft:block/diorite"
+  }
+}

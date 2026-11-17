@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cauldron",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone",
+    "inside": "minecraft:block/cobblestone",
+    "particle": "minecraft:block/cobblestone",
+    "side": "minecraft:block/cobblestone",
+    "top": "minecraft:block/cobblestone"
+  }
+}

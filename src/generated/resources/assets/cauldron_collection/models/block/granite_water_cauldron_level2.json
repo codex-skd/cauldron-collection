@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_level2",
+  "textures": {
+    "bottom": "minecraft:block/granite",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/granite",
+    "particle": "minecraft:block/granite",
+    "side": "minecraft:block/granite",
+    "top": "minecraft:block/granite"
+  }
+}
